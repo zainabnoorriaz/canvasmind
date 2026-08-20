@@ -25,22 +25,20 @@ Not a side panel. Not a chatbot. The board itself.
 ## 📸 Screenshots
 
 ### The whiteboard
-![CanvasMind frontend](./screenshots/1-frontend.png)
 
-### Sketch it, ask about it
-![Heart sketch with AI interaction](./screenshots/2-heart-interaction.png)
+![CanvasMind interface](./screenshots/01-interface.png)
 
-### Works with any shape
-![Star shape example](./screenshots/3-star-shape.png)
+### Shape detection
 
-### Reads handwritten equations
-![Handwritten equation example](./screenshots/4-handwritten.png)
+![CanvasMind shape detection](./screenshots/02-shape-detection.png)
 
-### Step-by-step explanations, written on the canvas
-![AI explanation on canvas](./screenshots/5-explanation.png)
+### Handwritten text recognition
 
-### Follow-up conversation, with context
-![AI follow-up side panel](./screenshots/6-sidepanel.png)
+![CanvasMind handwritten text](./screenshots/03-handwritten-text.png)
+
+### AI side panel
+
+![CanvasMind AI side panel](./screenshots/04-side-panel.png)
 
 ---
 
